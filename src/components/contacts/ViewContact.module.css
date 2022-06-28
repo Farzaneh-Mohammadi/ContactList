@@ -1,0 +1,35 @@
+.detailTitle {
+  color: rgb(60, 70, 184);
+  margin-bottom: 2rem;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid rgb(147, 173, 241);
+  border-radius: 10px;
+  padding: 1rem;
+  width: 30%;
+  margin: 1rem auto;
+}
+
+.label {
+  font-weight: 500;
+}
+
+.span {
+  font-weight: 200;
+}
+
+.backBtn {
+  text-decoration: none;
+  background: #fff;
+  padding: 0.3rem 5rem;
+
+  border: 2px solid rgb(60, 70, 184);
+  border-radius: 5px;
+  color: rgb(60, 70, 184);
+}
+
+.backBtnContainer {
+  margin: 2rem 0 0.6rem 0;
+}

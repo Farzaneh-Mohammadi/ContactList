@@ -1,0 +1,64 @@
+.addTitle {
+  /* text-align: center; */
+  margin: 1rem 0 2rem 0;
+  color: rgb(60, 70, 184);
+}
+
+.addContact {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  background-color: #fff;
+  margin: 0 auto;
+  padding: 1rem;
+  box-shadow: 2px 2px 5px #ccc;
+  border-radius: 10px;
+}
+
+.addContact input,
+.addContact select {
+  border: 1px solid rgb(147, 173, 241);
+  border-radius: 10px;
+  padding: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+.addContact input:focus,
+.addContact input:active,
+.addContact select:focus,
+.addContact select:active {
+  border: 1px solid rgb(60, 70, 184);
+  outline: none;
+  box-shadow: 1px 1px 15px #f6f6f6;
+}
+
+.addContactBtns {
+  display: flex;
+  justify-content: space-around;
+}
+
+.createBtn {
+  background-color: rgb(60, 70, 184);
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 0.5rem;
+  margin-top: 2rem;
+  width: 40%;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.cancelBtn {
+  text-decoration: none;
+  background-color: #fff;
+  border: 2px solid rgb(60, 70, 184);
+  border-radius: 5px;
+  color: rgb(60, 70, 184);
+  padding: 0.5rem;
+  height: 1rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  text-align: center;
+  width: 40%;
+}

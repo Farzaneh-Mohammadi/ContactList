@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Farzaneh",
+      "phone": "123654852",
+      "email": "aa@gmail.com",
+      "company": "Tech",
+      "groupId": "2"
+    },
+    {
+      "id": "2",
+      "name": "Zahra",
+      "phone": "89531321",
+      "email": "mngf@gmail.com",
+      "company": "Tech",
+      "groupId": "1"
+    },
+    {
+      "id": "5",
+      "name": "Yasmin",
+      "phone": "09853352547",
+      "email": "yasmin@gmail.com",
+      "company": "Tech",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
